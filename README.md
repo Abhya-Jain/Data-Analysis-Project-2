@@ -15,7 +15,7 @@ This project analyzes a dataset of over 9,000 Netflix movies to uncover key tren
 - **Jupyter Notebook**
 - **Python (Pandas, NumPy)**
 - **Plotly Express** for interactive visualizations
-- **Matplotlib & Seaborn** for additional plots (optional)
+- **Matplotlib & Seaborn** for additional plots
 - **Open-source Netflix dataset (CSV)**
 
 ## 📈 Features
